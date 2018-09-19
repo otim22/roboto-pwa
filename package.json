@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "hhttps://github.com/otim22/roboto-pwa",
+  "homepage": "https://github.com/otim22/roboto-pwa",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.2.0",
